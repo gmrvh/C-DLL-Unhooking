@@ -33,7 +33,7 @@ Ensure you have a **Windows machine** with a C# compiler installed.
 1. Open a terminal and navigate to the project directory.  
 2. Compile the C# program using `csc.exe` (C# compiler):  
    ```powershell
-   csc UnhookingPoC.cs
+   csc Program.cs
    ```  
 3. Run the executable:  
    ```powershell
