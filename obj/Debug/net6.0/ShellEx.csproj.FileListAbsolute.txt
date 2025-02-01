@@ -1,0 +1,14 @@
+C:\Users\Gamrah\source\repos\ShellEx\bin\Debug\net6.0\ShellEx.exe
+C:\Users\Gamrah\source\repos\ShellEx\bin\Debug\net6.0\ShellEx.deps.json
+C:\Users\Gamrah\source\repos\ShellEx\bin\Debug\net6.0\ShellEx.runtimeconfig.json
+C:\Users\Gamrah\source\repos\ShellEx\bin\Debug\net6.0\ShellEx.dll
+C:\Users\Gamrah\source\repos\ShellEx\bin\Debug\net6.0\ShellEx.pdb
+C:\Users\Gamrah\source\repos\ShellEx\obj\Debug\net6.0\ShellEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamrah\source\repos\ShellEx\obj\Debug\net6.0\ShellEx.AssemblyInfoInputs.cache
+C:\Users\Gamrah\source\repos\ShellEx\obj\Debug\net6.0\ShellEx.AssemblyInfo.cs
+C:\Users\Gamrah\source\repos\ShellEx\obj\Debug\net6.0\ShellEx.csproj.CoreCompileInputs.cache
+C:\Users\Gamrah\source\repos\ShellEx\obj\Debug\net6.0\ShellEx.dll
+C:\Users\Gamrah\source\repos\ShellEx\obj\Debug\net6.0\refint\ShellEx.dll
+C:\Users\Gamrah\source\repos\ShellEx\obj\Debug\net6.0\ShellEx.pdb
+C:\Users\Gamrah\source\repos\ShellEx\obj\Debug\net6.0\ShellEx.genruntimeconfig.cache
+C:\Users\Gamrah\source\repos\ShellEx\obj\Debug\net6.0\ref\ShellEx.dll

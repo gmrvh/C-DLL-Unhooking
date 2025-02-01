@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P45645TvCnE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gamrah\\source\\repos\\ShellEx\\UnhookPoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamrah\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23401.1\\microsoft.net.illink.analyzers.7.0.100-1.23401.1.nupkg.sha512",
+    "C:\\Users\\Gamrah\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23401.1\\microsoft.net.illink.tasks.7.0.100-1.23401.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\win-x86\ShellEx.exe
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\win-x86\ShellEx.deps.json
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\win-x86\ShellEx.runtimeconfig.json
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\win-x86\ShellEx.dll
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\win-x86\ShellEx.pdb
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\ShellEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\ShellEx.AssemblyInfoInputs.cache
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\ShellEx.AssemblyInfo.cs
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\ShellEx.csproj.CoreCompileInputs.cache
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\ShellEx.dll
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\refint\ShellEx.dll
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\ShellEx.pdb
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\ShellEx.genruntimeconfig.cache
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\ref\ShellEx.dll

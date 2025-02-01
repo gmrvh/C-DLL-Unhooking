@@ -1,0 +1,2 @@
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\publish\ShellExec\UnhookPoC.pdb
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\publish\ShellExec\UnhookPoC.exe

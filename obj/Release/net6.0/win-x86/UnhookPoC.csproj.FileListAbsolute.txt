@@ -1,0 +1,14 @@
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\win-x86\UnhookPoC.exe
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\win-x86\UnhookPoC.deps.json
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\win-x86\UnhookPoC.runtimeconfig.json
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\win-x86\UnhookPoC.dll
+C:\Users\Gamrah\source\repos\ShellEx\bin\Release\net6.0\win-x86\UnhookPoC.pdb
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\UnhookPoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\UnhookPoC.AssemblyInfoInputs.cache
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\UnhookPoC.AssemblyInfo.cs
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\UnhookPoC.csproj.CoreCompileInputs.cache
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\UnhookPoC.dll
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\refint\UnhookPoC.dll
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\UnhookPoC.pdb
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\UnhookPoC.genruntimeconfig.cache
+C:\Users\Gamrah\source\repos\ShellEx\obj\Release\net6.0\win-x86\ref\UnhookPoC.dll
